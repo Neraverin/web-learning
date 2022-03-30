@@ -1,2 +1,5 @@
-# web-learning
-Learning Web technologies
+# Web Learning
+Learning Web technologies:
+- HTML
+- CSS
+- JavaScript Basics
