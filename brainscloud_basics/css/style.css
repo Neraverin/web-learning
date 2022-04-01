@@ -1,6 +1,15 @@
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
 h3 {
     color:darkblue;
+}
+
+.title {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
 }
