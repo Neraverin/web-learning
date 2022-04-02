@@ -1,0 +1,26 @@
+h1 {
+  font-size: 36px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  padding-left: 10px;
+  padding-right: 15px;
+  margin: 0;
+}
+
+td {
+  padding-left: 10px;
+  margin: 0;
+}
+
+.author {
+  font-size: 10px;
+}
+
+.table_header {
+  background-color: lightgrey;
+}
