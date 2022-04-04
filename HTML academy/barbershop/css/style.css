@@ -1,4 +1,39 @@
-.BlackButton {
+.top-menu-item {
+  font-family: 'PT Sans Narrow';
+  color: white;
+  text-transform: uppercase;
+}
+
+.benefits {
+  font-family: 'PT Sans Narrow';
+  font-size: 30px;
+  color: #F7F4F1;
+  text-transform: uppercase;
+}
+
+.benefits-text {
+  font-family: 'PT Sans Narrow';
+  font-size: 14px;
+  color: #F7F4F1;
+  text-transform: uppercase;
+}
+
+.section-name {
+  font-family: 'PT Sans Narrow';
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.section-text {
+  font-family: 'PT Sans Narrow';
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.main-button {
+  font-family: 'PT Sans Narrow';
+  font-size: 14px;
+  text-transform: uppercase;
   background-color: black;
   color: white;
   padding: 5px 20px 5px 20px;
