@@ -79,8 +79,22 @@
       
       <section class="section-with-background">
         <h2 class="section-name">Записаться</h2>
-        <!-- Здеась будет форма-->
-        <button class="main-button">Записаться</button>
+          <form action="https://echo.htmlacademy.ru" method="post">
+            <p>
+              <label for="booking-date">Дата</label>
+              <input id="booking-date" type="date" name="booking-date" value="2022-04-12"></p>
+            <p>
+              <label for="booking-time">Время</label>
+              <input id= "booking-time" type="time" name="booking-time" value="17:00"></p>
+            <p>
+              <label for="booking-name">Ваше имя</label>
+              <input id="booking-name" type="text" name="booking-name" value="Имя"></p>
+            <p>
+              <label for="booking-telephone">Телефон</label>
+              <input id="booking-telephone" type="tel" name="booking-telephone" value="+7-123-456-78-90">
+            </p>
+          </form>
+        <button class="main-button" type="submit">Записаться</button>
       </section>
     </main>
     <footer>
