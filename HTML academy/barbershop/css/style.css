@@ -18,6 +18,10 @@
   text-transform: uppercase;
 }
 
+.section-with-background {
+  background-color:beige;
+}
+
 .section-name {
   font-family: 'PT Sans Narrow';
   font-size: 30px;
